@@ -8,7 +8,7 @@ body {
   background-color: #f2f4f6;
   background-image: url("img/wall2.png");
   background-repeat: no-repeat;
-  background-position: top center;
+  background-position: center;
 }
 
 .container {
