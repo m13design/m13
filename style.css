@@ -6,9 +6,9 @@ body {
   line-height: 32px;
   color: #222222;
   background-color: #f2f4f6;
-  background-image: url("img/wall2.png") width: 1920px;
+  background-image: url("img/wall2.png");
   background-repeat: no-repeat;
-  background-position: top;
+  background-position: center-top;
 }
 
 .container {
